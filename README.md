@@ -9,5 +9,7 @@ Tidyverse :Heart: The downloaded binary packages are in
 Readxl :cat: 
 		C:\Users\usuario\AppData\Local\Temp\RtmpIfCulV\downloaded_packages
 
+Install poltrix a RStudio :sun: C:\Users\usuario\AppData\Local\Temp\RtmpIfCulV\downloaded_packages
+
 
   
