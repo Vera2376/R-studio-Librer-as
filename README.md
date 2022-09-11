@@ -3,3 +3,6 @@ GGplot2 :mountain: :rainbow:  C:\Users\usuario\AppData\Local\Temp\RtmpW2Tb7x\dow
 
 Plotix :cat: :butterfly:
 
+Tidyverse :Heart: The downloaded binary packages are in
+	C:\Users\usuario\AppData\Local\Temp\RtmpgVAgFN\downloaded_packages :heart:
+  
