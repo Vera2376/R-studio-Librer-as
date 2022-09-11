@@ -5,4 +5,9 @@ Plotix :cat: :butterfly:
 
 Tidyverse :Heart: The downloaded binary packages are in
 	C:\Users\usuario\AppData\Local\Temp\RtmpgVAgFN\downloaded_packages :heart:
+	
+Readxl :cat: 
+		C:\Users\usuario\AppData\Local\Temp\RtmpIfCulV\downloaded_packages
+
+
   
