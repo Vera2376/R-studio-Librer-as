@@ -13,5 +13,11 @@ Install poltrix a RStudio :sun: C:\Users\usuario\AppData\Local\Temp\RtmpIfCulV\d
 
 C:\\Documents\\TP N°1 - Estadistica.xlsx
 
+Install package ‘readxl’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+	C:\Users\usuario\AppData\Local\Temp\RtmpeoQ4zZ\downloaded_packages
+>
+
 
   
