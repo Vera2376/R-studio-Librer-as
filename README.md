@@ -11,5 +11,7 @@ Readxl :cat:
 
 Install poltrix a RStudio :sun: C:\Users\usuario\AppData\Local\Temp\RtmpIfCulV\downloaded_packages
 
+C:\\Documents\\TP N°1 - Estadistica.xlsx
+
 
   
