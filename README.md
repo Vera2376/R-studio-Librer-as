@@ -6,7 +6,7 @@ GGplot2 :mountain: :rainbow:
 
 <div id="header" align="center">
  <imag src=(https://github.com/Vera2376/R-studio-Librer-as/assets/103527322/982035d2-0e4d-448c-b47b-f722f2284b7c)
-<hi aling="center"> Hi, Im Vera</hi>
+<hi aling="center"> </hi>
 
 
 
